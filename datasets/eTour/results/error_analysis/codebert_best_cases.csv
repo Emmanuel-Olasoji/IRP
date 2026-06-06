@@ -1,0 +1,10 @@
+requirement_id,requirement_id_norm,correct_code_file,correct_code_file_norm,found,rank_found,top_prediction,top_score,retrieved_in_top_k
+UC24.txt,uc24,FeedBackTableModel.java,feedbacktablemodel,True,1.0,feedbacktablemodel,0.9887433052062988,True
+UC26.txt,uc26,FeedBackTableModel.java,feedbacktablemodel,True,1.0,feedbacktablemodel,0.9906029105186462,True
+UC27.txt,uc27,ISearch.java,isearch,True,1.0,isearch,0.990025758743286,True
+UC34.txt,uc34,ISearch.java,isearch,True,1.0,isearch,0.9893998503684998,True
+UC36.txt,uc36,IAuthentication.java,iauthentication,True,1.0,iauthentication,0.9828348755836488,True
+UC4.txt,uc4,ISearch.java,isearch,True,1.0,isearch,0.9906598925590516,True
+UC57.txt,uc57,ISearch.java,isearch,True,1.0,isearch,0.9916712045669556,True
+UC7.txt,uc7,RefreshmentPointAgencyManager.java,refreshmentpointagencymanager,True,1.0,refreshmentpointagencymanager,0.9909427165985109,True
+UC9.txt,uc9,ISearch.java,isearch,True,1.0,isearch,0.9898799061775208,True

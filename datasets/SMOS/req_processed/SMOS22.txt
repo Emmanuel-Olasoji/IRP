@@ -1,0 +1,1 @@
+view teaching list administrator description allows precondition user logged system role click management button sequence look archive teacher screen postconditions show connection smos server interrupted

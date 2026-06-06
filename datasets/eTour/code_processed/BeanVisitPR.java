@@ -1,0 +1,1 @@
+unisa gps etour visit get comment set refreshment point tourist rating contains for feedback parameterized value

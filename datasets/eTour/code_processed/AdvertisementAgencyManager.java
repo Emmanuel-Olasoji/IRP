@@ -1,0 +1,1 @@
+unisa gps etour control advertisementmanager advertisement agency manager type dbnews clear news remote exception insert modify get all stub implementing for operator contains managing collecting database instantiates link repository which remove from idbnews erased clearing successful otherwise

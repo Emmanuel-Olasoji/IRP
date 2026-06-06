@@ -1,0 +1,1 @@
+unisa gps etour util error message occurs when connecting dbms you can not perform operation condition specified there are format read write file have reached maximum number banner displayed standard self describing

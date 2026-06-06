@@ -1,0 +1,1 @@
+view one page direction description display report card precondition user logged system click online button sequence select academic year choose pupil class whose want student displayed quadrimestre interest clicking relevant key list next chosen referred selected semester postconditions stop connection smos server interrupted

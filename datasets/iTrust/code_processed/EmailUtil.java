@@ -1,0 +1,1 @@
+edu ncsu csc itrust email util with send not real sending even throwaway account waste bandwidth and look very suspicious you want know how from java just google your own time

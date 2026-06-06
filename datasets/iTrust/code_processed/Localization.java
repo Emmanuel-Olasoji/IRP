@@ -1,0 +1,1 @@
+edu ncsu csc itrust localization locale get current instance provides singleton for accessing trust could possibly load country and language from file may want make thread safe far know doesn any multithreading though

@@ -1,0 +1,2 @@
+model,total_links,found_links,top1_hits,top5_hits,top10_hits,top1_rate,top5_rate,top10_rate
+bm25,1044,203,32,101,203,0.0307,0.0967,0.1944

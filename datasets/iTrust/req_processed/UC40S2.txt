@@ -1,0 +1,1 @@
+user patient chooses display appointment current month together office visit date prescription lab procedure calendar shall displayed select read detail label diagnosis icd code medication prescribed ndc see data format laboratory last status update loinc

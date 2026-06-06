@@ -1,0 +1,2 @@
+model,total_links,found_links,top1_hits,top5_hits,top10_hits,top1_rate,top5_rate,top10_rate
+sbert,567,181,25,106,181,0.0441,0.1869,0.3192

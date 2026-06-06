@@ -1,0 +1,1 @@
+unisa gps etour repository dbrefreshment point operator clear refreshment insert operatorepuntodiristor while modify get sqlexception variable for database connection query create statement clearing you run cancellation backup always and take care closing connect result insertion checking

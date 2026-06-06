@@ -1,0 +1,1 @@
+smos address environment get pool property path set used hold gesa variable default error message

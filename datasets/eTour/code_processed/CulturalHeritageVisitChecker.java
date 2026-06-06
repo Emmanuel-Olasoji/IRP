@@ -1,0 +1,1 @@
+unisa gps etour control culturalheritagemanager cultural heritage visit checker check vote and tourist course rating are accepted only between for reference correct length nullity field feedback task monitoring from various consistency performed such dynamic type incorrect please calling appropriate

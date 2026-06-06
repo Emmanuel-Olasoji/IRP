@@ -1,0 +1,1 @@
+unisa gps etour repository idbsearch preference insert search clear get del tourist for managing database add delete research eliminate and have been deleted otherwise list find cultural heritage resting

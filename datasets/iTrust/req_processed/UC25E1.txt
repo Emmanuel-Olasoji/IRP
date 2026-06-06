@@ -1,0 +1,1 @@
+input valid zip code see data format user asked try

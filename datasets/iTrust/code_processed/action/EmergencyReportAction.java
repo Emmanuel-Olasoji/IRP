@@ -1,0 +1,1 @@
+edu ncsu csc itrust action emergency report handle email util get patient name age gender contact blood type allergy current prescription warning diagnosis trust exception immunization make and personal representative super validating pid viewing factory daofactory used creating daos for logged mid looking whose being generated full

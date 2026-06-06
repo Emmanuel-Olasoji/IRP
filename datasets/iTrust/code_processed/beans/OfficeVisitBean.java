@@ -1,0 +1,1 @@
+edu ncsu csc itrust office visit setter simple date format get patient hcp note str diagnosis prescription procedure set hospital for storing about purpose store period little functionality added with exception minor formatting such concatenating phone number together must only have getters and eclipse hint use source generate create these easily daos

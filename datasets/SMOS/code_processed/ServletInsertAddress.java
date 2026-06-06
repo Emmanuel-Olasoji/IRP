@@ -1,0 +1,1 @@
+smos exception servlet insert address represents login thrown when enters incorrect password during authentication without associated error message with should

@@ -1,0 +1,1 @@
+manager identity card interacts cimanager get number cstri default you search for invoking relative cod citizen type associated with passed parameter exception

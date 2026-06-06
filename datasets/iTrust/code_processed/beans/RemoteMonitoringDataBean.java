@@ -1,0 +1,1 @@
+edu ncsu csc itrust remote monitoring setter get reporter mid set patient logged time systolic blood pressure diastolic glucose level role for storing purpose store period little functionality added with exception minor formatting such concatenating phone number together must only have getters and eclipse hint use source generate create these easily parameter

@@ -1,0 +1,1 @@
+user selects laboratory procedure calendar read detail clicking link beside loinc code displayed shall new page including status commentary result andoffice visit date ordered

@@ -1,0 +1,1 @@
+unisa gps etour repository idbgeneric preference insert generic modify clear get for handling general database add added edit change and been changed otherwise delete have deleted tourist

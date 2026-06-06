@@ -1,0 +1,1 @@
+view teaching detail administrator description allows precondition user already logged system viewing list click button sequence display screen single postconditions detailed information connection interrupted smos server

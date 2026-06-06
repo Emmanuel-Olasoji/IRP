@@ -1,0 +1,1 @@
+edu ncsu csc itrust survey result set hcpmid get hcpfirst name hcplast hcpaddress hcpcity hcpstate hcpzip hcpspecialty hcphospital avg waiting room minute exam visit satisfaction treatment percent list specialty used for search store address about hcp addition their hospital and average from range also contains variable office are available

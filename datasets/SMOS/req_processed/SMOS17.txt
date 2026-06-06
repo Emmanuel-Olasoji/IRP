@@ -1,0 +1,1 @@
+view address list administrator description allows precondition user logged system role click management button sequence display postconditions show archive connection smos server interrupted

@@ -1,0 +1,1 @@
+unisa gps etour repository dblocation statistic get list location average rating variable for connection query result create statement extraction between and executed extract from set move returned includes obtained add always run take care close

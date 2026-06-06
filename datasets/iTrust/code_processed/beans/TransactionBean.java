@@ -1,0 +1,1 @@
+edu ncsu csc itrust transaction setter get role set added info logged mid secondary time type for storing about occurred within trust purpose store period little functionality with exception minor formatting such concatenating phone number together must only have getters and eclipse hint use source generate create these easily

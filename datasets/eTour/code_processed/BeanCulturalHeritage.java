@@ -1,0 +1,1 @@
+unisa gps etour cultural heritage get closing day set cap city ticket cost description location average rating name number opening time position province phone street containing relating value

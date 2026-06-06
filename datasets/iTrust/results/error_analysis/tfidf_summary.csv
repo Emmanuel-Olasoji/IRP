@@ -1,0 +1,2 @@
+model,total_links,found_links,top1_hits,top5_hits,top10_hits,top1_rate,top5_rate,top10_rate
+tfidf,399,91,15,60,91,0.0376,0.1504,0.2281

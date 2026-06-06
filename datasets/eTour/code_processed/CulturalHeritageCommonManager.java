@@ -1,0 +1,1 @@
+unisa gps etour control culturalheritagemanager cultural heritage common manager dbcultural dbtag dbvisit dbtourist remote exception get tag feedback for statistic element date modify connect visit tourist instantiate map same size list each adding their username here begin iterate add any set all index calculate last thirty day certain loop looking

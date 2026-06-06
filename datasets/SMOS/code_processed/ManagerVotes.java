@@ -1,0 +1,1 @@
+smos exception manager vote represents duplicate entity thrown when you insert already present database without associated error message with should

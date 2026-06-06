@@ -1,0 +1,1 @@
+manager family unit interacts insert nucleo check get ncore component set head increment decrement default invoking relative type household entered exception you existence integer which used present otherwise number member whose want modifies

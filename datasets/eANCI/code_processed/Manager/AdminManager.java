@@ -1,0 +1,1 @@
+manager admin interacts administrator edit search number enter delete get login name default della classe modifies invoking relative identifies with updated entry been made otherwise used type exception insert database

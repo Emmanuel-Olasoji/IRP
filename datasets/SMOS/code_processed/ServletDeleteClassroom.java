@@ -1,0 +1,1 @@
+smos exception servlet delete classroom represents field required thrown when trying enter entity without specifying associated error message with should

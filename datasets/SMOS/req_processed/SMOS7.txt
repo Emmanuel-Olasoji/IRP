@@ -1,0 +1,1 @@
+view user detail administrator description precondition logged took viewing lanciutenti system list click button sequence display detailed information particular surname mail cell login password postconditions connection smos server interrupted

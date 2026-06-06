@@ -1,0 +1,17 @@
+# Dependencies for MSc traceability framework
+numpy==1.26.4
+pandas==2.2.1
+scipy==1.15.3
+scikit-learn==1.7.2
+nltk==3.9.4
+torch==2.2.2
+transformers==4.41.2
+sentence-transformers==2.2.2
+huggingface-hub==0.23.2
+tokenizers==0.19.1
+rank-bm25==0.2.2
+matplotlib==3.10.9
+tqdm==4.66.2
+joblib==1.5.3
+accelerate==1.13.0
+openpyxl==3.1.5

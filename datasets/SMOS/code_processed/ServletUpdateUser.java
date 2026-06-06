@@ -1,0 +1,1 @@
+smos exception servlet update represents delete manager thrown when attempt only database without associated error message with should

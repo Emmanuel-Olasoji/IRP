@@ -1,0 +1,1 @@
+unisa gps etour control registeredusermanager tourist agency manager dbvisit remote exception get active disactive delete feedback instantiate for database connection obtaining all alike present will contain value retrieve invoke with operation layer thrown sqlexception unexpected caused other factor result from ottenur obtain

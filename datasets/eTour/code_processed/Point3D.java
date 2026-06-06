@@ -1,0 +1,1 @@
+unisa gps etour util point get latitude set longitude altitude distance gradi radianti radius earth contains coordinate surface and realizes calculation from value must represented radian fall target range greek for south equator north meridian west greenwitch east

@@ -1,0 +1,1 @@
+unisa gps etour repository dbvisit insert visit date visitapr modify get list while prtourist variable for connection query result create statement average rating property number vote insertion you run backup always and take care close

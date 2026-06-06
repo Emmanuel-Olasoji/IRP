@@ -1,0 +1,1 @@
+view register list administrator description academic year precondition user must logged system click digital button sequence select school show screen selection interest search archive record display associated class belong postconditions displaying related particular interrupt connection smos server interrupted

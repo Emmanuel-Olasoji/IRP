@@ -1,0 +1,1 @@
+edu ncsu csc itrust family member setter get first name set last full mid relation for storing about purpose store period little functionality added with exception minor formatting such concatenating phone number together must only have getters and eclipse hint use source generate create these easily

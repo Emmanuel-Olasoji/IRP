@@ -1,0 +1,1 @@
+servlet show access aservlet get manager

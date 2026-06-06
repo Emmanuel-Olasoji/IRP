@@ -1,0 +1,1 @@
+servlet delete citizen search post cimanager manager access family sessione nulla effettua redirect alla pagina autenticazione gli attributi acc sono nulli devo effettuare presenti proced con deletezione non codice della carta identit deletere solo nel nucleo familiare controlland che esito sia positiv presente sostituire capo famiglia controll

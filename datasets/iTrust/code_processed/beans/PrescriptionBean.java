@@ -1,0 +1,1 @@
+edu ncsu csc itrust prescription setter medication simple date format get dosage set end str instruction start visit any arbitrary constant will for storing about purpose store period little functionality added with exception minor formatting such concatenating phone number together must only have getters and eclipse hint use source generate create these easily

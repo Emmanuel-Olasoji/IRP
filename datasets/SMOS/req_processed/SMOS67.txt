@@ -1,0 +1,1 @@
+registration site visitor description allows student register system precondition user click button home page sequence fill field form submit view containing surname mobile phone mail username password confirmation insert request postconditions requested interrupt connection smos server interrupted

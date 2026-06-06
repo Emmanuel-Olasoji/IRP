@@ -1,0 +1,1 @@
+patient select report physiologic measurement whose least one data type monitoring andfor representative presented list allowed enter blood pressure systolic diastolic glucose level input timestamp fact status reported mid saved applicable entry corresponding displayed

@@ -1,0 +1,15 @@
+requirement_id,requirement_id_norm,correct_code_file,correct_code_file_norm,found,rank_found,top_prediction,top_score,retrieved_in_top_k
+SMOS15,smos15,ServletAddRemoveTeachingsAsAddress.java,servletaddremoveteachingsasaddress,True,1.0,servletaddremoveteachingsasaddress,0.9893096089363098,True
+SMOS16,smos16,ServletAddRemoveTeachingsAsAddress.java,servletaddremoveteachingsasaddress,True,1.0,servletaddremoveteachingsasaddress,0.9902359843254088,True
+SMOS19,smos19,ServletAddRemoveTeachingsAsAddress.java,servletaddremoveteachingsasaddress,True,1.0,servletaddremoveteachingsasaddress,0.9880713820457458,True
+SMOS20,smos20,ServletAddRemoveTeachingsAsAddress.java,servletaddremoveteachingsasaddress,True,1.0,servletaddremoveteachingsasaddress,0.989261269569397,True
+SMOS21,smos21,ServletAddRemoveTeachingsAsAddress.java,servletaddremoveteachingsasaddress,True,1.0,servletaddremoveteachingsasaddress,0.9876291155815125,True
+SMOS22,smos22,ServletAddRemoveTeachingsAsAddress.java,servletaddremoveteachingsasaddress,True,1.0,servletaddremoveteachingsasaddress,0.9905619621276855,True
+SMOS26,smos26,ServletAddRemoveTeachingsAsAddress.java,servletaddremoveteachingsasaddress,True,1.0,servletaddremoveteachingsasaddress,0.9873054027557372,True
+SMOS39,smos39,Note.java,note,True,1.0,note,0.987576961517334,True
+SMOS4,smos4,managerUser.java,manageruser,True,1.0,manageruser,0.988894522190094,True
+SMOS50,smos50,ServletRemoveStudentClassroom.java,servletremovestudentclassroom,True,1.0,servletremovestudentclassroom,0.9875680804252625,True
+SMOS51,smos51,ServletRemoveStudentClassroom.java,servletremovestudentclassroom,True,1.0,servletremovestudentclassroom,0.9879979491233826,True
+SMOS53,smos53,Note.java,note,True,1.0,note,0.9841466546058656,True
+SMOS6,smos6,managerUser.java,manageruser,True,1.0,manageruser,0.9889466166496276,True
+SMOS8,smos8,managerUser.java,manageruser,True,1.0,manageruser,0.988178551197052,True

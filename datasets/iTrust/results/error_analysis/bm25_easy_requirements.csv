@@ -1,0 +1,2 @@
+requirement_id,total_links,found_links,top1_hits,top5_hits,top10_hits,best_rank,avg_rank_found,found_rate,difficulty_label
+UC17S2.txt,2,2,1,2,2,1.0,2.5,1.0,easy

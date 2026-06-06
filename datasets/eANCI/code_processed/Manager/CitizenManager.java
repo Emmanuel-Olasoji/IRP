@@ -1,0 +1,1 @@
+manager citizen interacts get login modify email insert search delete family name surname default cimanager through his invoking relative which you want type exception modifying for specific citt operation successful flase otherwise modification mail address identifier

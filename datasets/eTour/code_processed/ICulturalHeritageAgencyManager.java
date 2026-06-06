@@ -1,0 +1,1 @@
+unisa gps etour control culturalheritagemanager icultural heritage agency manager insert cultural clear get updatang modify add tag remove for operation peculiar operator insertion raw included database result successful otherwise clearing deleted all property array list change

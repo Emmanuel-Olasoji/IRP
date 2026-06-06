@@ -1,0 +1,1 @@
+logout registered user description allows system precondition logged click button sequence display login form postconditions log

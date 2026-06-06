@@ -1,0 +1,1 @@
+unisa gps etour control searchmanager isearch search get page result cultural heritage refreshment point number constant identify type site for research initialization tourist case guest keyword together tag max radius maximum distance between and element per item look session position detected

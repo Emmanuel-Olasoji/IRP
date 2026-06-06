@@ -1,0 +1,1 @@
+unisa gps etour repository dbsearch preference clear search tourist insert del associazionebc preferenzedisearch associazionepr rating get while variable for database connection query create statement clearing you run cancellation backup always and take care closing connect

@@ -1,0 +1,1 @@
+uap select report physiologic measurement presented list patient whose least one data type monitoring allowed enter blood pressure systolic diastolic glucose level input timestamp fact status reported manager mid saved applicable entry corresponding displayed

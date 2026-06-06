@@ -1,0 +1,1 @@
+com trapan spg control advertisementmanager controll advertisement banner news released due date text contains perform consistency check and please formal content passed parameter performs correctness contained past per particular publication expiration are consistent second later containing

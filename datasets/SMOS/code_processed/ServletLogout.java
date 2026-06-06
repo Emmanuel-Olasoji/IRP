@@ -1,0 +1,1 @@
+smos exception servlet logout represents default thrown without associated error message with should

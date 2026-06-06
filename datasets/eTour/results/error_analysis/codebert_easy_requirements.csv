@@ -1,0 +1,3 @@
+requirement_id,total_links,found_links,top1_hits,top5_hits,top10_hits,best_rank,avg_rank_found,found_rate,difficulty_label
+UC27.txt,1,1,1,1,1,1.0,1.0,1.0,easy
+UC57.txt,1,1,1,1,1,1.0,1.0,1.0,easy

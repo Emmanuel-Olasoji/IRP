@@ -1,0 +1,1 @@
+smos exception manager register represents delete administrator thrown when only admin database without associated error message with should

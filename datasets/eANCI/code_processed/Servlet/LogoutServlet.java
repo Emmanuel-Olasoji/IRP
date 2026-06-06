@@ -1,0 +1,1 @@
+servlet logout performs get

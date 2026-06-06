@@ -1,0 +1,1 @@
+unisa gps etour refreshment point get cap set city description closing day location average rating name number opening time party position province phone street for storage parameterized value

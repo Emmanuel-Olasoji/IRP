@@ -1,0 +1,1 @@
+unisa gps etour control registeredusermanager containing itourist client manager insert tourist generic preference get modify clear search cultural heritage visit refreshment point for insertion container all relating tourism successful otherwise including general identifier which involve inclusion extraction generously given

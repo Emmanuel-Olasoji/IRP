@@ -1,0 +1,2 @@
+model,total_links,found_links,top1_hits,top5_hits,top10_hits,top1_rate,top5_rate,top10_rate
+codebert,399,18,3,10,18,0.0075,0.0251,0.0451

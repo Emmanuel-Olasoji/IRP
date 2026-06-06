@@ -1,0 +1,1 @@
+unisa gps etour control registeredusermanager itourist agency manager delete active tourist disactive get feedback for handling from side transaction clearing database identifier operation successful otherwise activate registered disable obtain collection

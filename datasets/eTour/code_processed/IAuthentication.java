@@ -1,0 +1,1 @@
+unisa gps etour control registeredusermanager iauthentication login constant identify type relating operation performed and logout register authenticate registered tourist operator refreshment username name password for usertype authenticated are correct logged event otherwise

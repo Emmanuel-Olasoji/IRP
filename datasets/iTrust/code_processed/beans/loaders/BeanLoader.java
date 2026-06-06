@@ -1,0 +1,1 @@
+edu ncsu csc itrust loader load list first single parameter help enforce paradigm what should contained generic type specifies responsible for extacting from result set will loaded with typically make iterated call java sql are extracting util where

@@ -1,0 +1,9 @@
+requirement_id,total_links,found_links,top1_hits,top5_hits,top10_hits,best_rank,avg_rank_found,found_rate,difficulty_label
+UC15.txt,6,0,0,0,0,,,0.0,hard
+UC49.txt,6,0,0,0,0,,,0.0,hard
+UC14.txt,5,0,0,0,0,,,0.0,hard
+UC18.txt,5,0,0,0,0,,,0.0,hard
+UC55.txt,3,0,0,0,0,,,0.0,hard
+UC26.txt,2,0,0,0,0,,,0.0,hard
+UC32.txt,2,0,0,0,0,,,0.0,hard
+UC29.txt,1,0,0,0,0,,,0.0,hard

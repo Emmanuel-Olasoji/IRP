@@ -1,0 +1,14 @@
+requirement_id,requirement_id_norm,correct_code_file,correct_code_file_norm,found,rank_found,top_prediction,top_score,retrieved_in_top_k
+UC15S1.txt,uc15s1,UpdateCPTCodeListAction.java,updatecptcodelistaction,True,1.0,updatecptcodelistaction,0.6397730708122253,True
+UC15S2.txt,uc15s2,UpdateICDCodeListAction.java,updateicdcodelistaction,True,1.0,updateicdcodelistaction,0.5383478999137878,True
+UC15S3.txt,uc15s3,UpdateNDCodeListAction.java,updatendcodelistaction,True,1.0,updatendcodelistaction,0.5701566934585571,True
+UC15S4.txt,uc15s4,UpdateLOINCListAction.java,updateloinclistaction,True,1.0,updateloinclistaction,0.6432136297225952,True
+UC2E2.txt,uc2e2,AddPersonnelValidator.java,addpersonnelvalidator,True,1.0,addpersonnelvalidator,0.4148204922676086,True
+UC2S1.txt,uc2s1,PersonnelDAO.java,personneldao,True,1.0,personneldao,0.5682300329208374,True
+UC2S2.txt,uc2s2,PersonnelDAO.java,personneldao,True,1.0,personneldao,0.4750053584575653,True
+UC33S1.txt,uc33s1,ReferralManagementAction.java,referralmanagementaction,True,1.0,referralmanagementaction,0.5564700365066528,True
+UC35S2.txt,uc35s2,ReportAdverseEventAction.java,reportadverseeventaction,True,1.0,reportadverseeventaction,0.6068480610847473,True
+UC36S1.txt,uc36s1,MonitorAdverseEventAction.java,monitoradverseeventaction,True,1.0,monitoradverseeventaction,0.5930999517440796,True
+UC38S2.txt,uc38s2,DrugInteractionDAO.java,druginteractiondao,True,1.0,druginteractiondao,0.4261322319507599,True
+UC3E2.txt,uc3e2,ResetPasswordAction.java,resetpasswordaction,True,1.0,resetpasswordaction,0.450543075799942,True
+UC3S3.txt,uc3s3,ChangeSessionTimeoutAction.java,changesessiontimeoutaction,True,1.0,changesessiontimeoutaction,0.5575937032699585,True

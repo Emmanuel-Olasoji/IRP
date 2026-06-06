@@ -1,0 +1,1 @@
+view one page administrator description display report card precondition user logged system click online button sequence select academic year choose pupil class student four month clicking relevant list next chosen referred selected postconditions stop connection smos server interrupted

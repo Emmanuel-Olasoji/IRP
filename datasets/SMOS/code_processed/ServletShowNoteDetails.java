@@ -1,0 +1,1 @@
+smos exception servlet show note detail represents entity not found thrown when database without associated error message with should

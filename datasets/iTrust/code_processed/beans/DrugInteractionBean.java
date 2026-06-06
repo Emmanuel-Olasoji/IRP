@@ -1,0 +1,1 @@
+edu ncsu csc itrust drug interaction setter get first set second description for storing about message from one another purpose store period little functionality added with exception minor formatting such concatenating phone number together must only have getters and eclipse hint use source generate create these easily

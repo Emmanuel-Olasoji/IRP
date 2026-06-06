@@ -1,0 +1,1 @@
+operator agency set name get surname residence city phone cap address email password username date birth

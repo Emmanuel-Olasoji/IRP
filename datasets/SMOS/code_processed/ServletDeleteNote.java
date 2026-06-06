@@ -1,0 +1,1 @@
+smos application addressmanagement servlet delete note add remove teaching street address get for post servon dell due liste insegnamenti aggiungiam gli selezionati rimuoviam non session set attribute list teacher selcected todo auto generated block definition request reply

@@ -1,0 +1,1 @@
+edu ncsu csc itrust loincbean setter get lab procedure code set component kind property time aspect scale type for storing about purpose store period little functionality added with exception minor formatting such concatenating phone number together must only have getters and eclipse hint use source generate create these easily

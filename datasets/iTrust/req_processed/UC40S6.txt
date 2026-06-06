@@ -1,0 +1,1 @@
+user selects prescription calendar read detail clicking link beside medication displayed shall new page including prescribed ndc see data format date start end doctor

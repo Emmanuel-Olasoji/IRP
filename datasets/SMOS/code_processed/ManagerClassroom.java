@@ -1,0 +1,1 @@
+smos exception manager classroom represents connection thrown when not possible get database without associated error message with should

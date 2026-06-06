@@ -1,0 +1,1 @@
+edu ncsu csc itrust message setter get set parent from subject body sent date read for storing about one another purpose store period little functionality added with exception minor formatting such concatenating phone number together must only have getters and eclipse hint use source generate create these easily mids recipient

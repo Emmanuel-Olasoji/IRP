@@ -1,0 +1,16 @@
+requirement_id,requirement_id_norm,correct_code_file,correct_code_file_norm,found,rank_found,top_prediction,top_score,retrieved_in_top_k
+UC15S1.txt,uc15s1,UpdateCPTCodeListAction.java,updatecptcodelistaction,True,1.0,updatecptcodelistaction,17.775583791148065,True
+UC15S4.txt,uc15s4,UpdateLOINCListAction.java,updateloinclistaction,True,1.0,updateloinclistaction,43.41085664309976,True
+UC17S1.txt,uc17s1,VisitRemindersDAO.java,visitremindersdao,True,1.0,visitremindersdao,15.295572875887643,True
+UC17S2.txt,uc17s2,VisitRemindersDAO.java,visitremindersdao,True,1.0,visitremindersdao,12.88859403451644,True
+UC23S3.txt,uc23s3,ViewMyRecordsAction.java,viewmyrecordsaction,True,1.0,viewmyrecordsaction,22.36052550511487,True
+UC23S4.txt,uc23s4,ViewMyReportRequestsAction.java,viewmyreportrequestsaction,True,1.0,viewmyreportrequestsaction,10.259721094417706,True
+UC29.txt,uc29,MyDiagnosisAction.java,mydiagnosisaction,True,1.0,mydiagnosisaction,16.456288854365024,True
+UC30S2.txt,uc30s2,SendMessageAction.java,sendmessageaction,True,1.0,sendmessageaction,12.164106733877851,True
+UC35S1.txt,uc35s1,ReportAdverseEventAction.java,reportadverseeventaction,True,1.0,reportadverseeventaction,15.144626085139226,True
+UC35S2.txt,uc35s2,ReportAdverseEventAction.java,reportadverseeventaction,True,1.0,reportadverseeventaction,15.144626085139226,True
+UC38S1.txt,uc38s1,DrugInteractionAction.java,druginteractionaction,True,1.0,druginteractionaction,11.286868515604317,True
+UC38S2.txt,uc38s2,DrugInteractionAction.java,druginteractionaction,True,1.0,druginteractionaction,11.398948333118534,True
+UC3S2.txt,uc3s2,ResetPasswordAction.java,resetpasswordaction,True,1.0,resetpasswordaction,10.752750116659598,True
+UC3S3.txt,uc3s3,SessionTimeoutListener.java,sessiontimeoutlistener,True,1.0,sessiontimeoutlistener,10.691077298117966,True
+UC4S1.txt,uc4s1,EditPatientAction.java,editpatientaction,True,1.0,editpatientaction,13.106766854777876,True

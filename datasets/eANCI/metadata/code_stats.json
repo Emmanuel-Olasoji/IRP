@@ -1,0 +1,7 @@
+{
+    "random_seed": 42,
+    "files_processed": 55,
+    "avg_tokens_before": 498.8363636363636,
+    "avg_tokens_after": 22.763636363636362,
+    "runtime_seconds": 0.07173895835876465
+}

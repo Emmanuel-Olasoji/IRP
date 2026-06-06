@@ -1,0 +1,1 @@
+smos exception servlet show detail represents authorization thrown when attempt perform operation for which doe not have permission without associated error message with

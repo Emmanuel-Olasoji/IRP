@@ -1,0 +1,1 @@
+unisa gps etour repository dbmenu clear menu insert modify get while del day variable for database connection query create statement clearing you run cancellation backup always done and take care closing connect insertion

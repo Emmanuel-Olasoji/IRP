@@ -1,0 +1,1 @@
+edu ncsu csc itrust hcpdiagnosis setter get hcp set hcpname num patient inc med list lab visit satisfaction sat treatment for storing about diagnosis given purpose store period little functionality added with exception minor formatting such concatenating phone number together must only have getters and eclipse hint use source generate create these easily

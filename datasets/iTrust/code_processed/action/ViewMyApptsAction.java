@@ -1,0 +1,1 @@
+edu ncsu csc itrust action view appts get appointment name all from their mid trust exception for admins use may need change sqlexception

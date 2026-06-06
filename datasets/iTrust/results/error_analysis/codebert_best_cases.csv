@@ -1,0 +1,4 @@
+requirement_id,requirement_id_norm,correct_code_file,correct_code_file_norm,found,rank_found,top_prediction,top_score,retrieved_in_top_k
+UC35S1.txt,uc35s1,ReportAdverseEventAction.java,reportadverseeventaction,True,1.0,reportadverseeventaction,0.9891420602798462,True
+UC35S2.txt,uc35s2,ReportAdverseEventAction.java,reportadverseeventaction,True,1.0,reportadverseeventaction,0.9890316128730774,True
+UC3S3.txt,uc3s3,AccessDAO.java,accessdao,True,1.0,accessdao,0.9811909198760986,True

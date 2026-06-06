@@ -1,0 +1,16 @@
+requirement_id,requirement_id_norm,correct_code_file,correct_code_file_norm,found,rank_found,top_prediction,top_score,retrieved_in_top_k
+UC15S1.txt,uc15s1,UpdateCPTCodeListAction.java,updatecptcodelistaction,True,1.0,updatecptcodelistaction,0.2411703169981063,True
+UC15S4.txt,uc15s4,UpdateLOINCListAction.java,updateloinclistaction,True,1.0,updateloinclistaction,0.5543811819017341,True
+UC16.txt,uc16,Type1DiabetesRisks.java,type1diabetesrisks,True,1.0,type1diabetesrisks,0.3015261371173037,True
+UC17S1.txt,uc17s1,VisitRemindersDAO.java,visitremindersdao,True,1.0,visitremindersdao,0.2970993292171334,True
+UC17S2.txt,uc17s2,VisitRemindersDAO.java,visitremindersdao,True,1.0,visitremindersdao,0.2338052129305219,True
+UC18E1.txt,uc18e1,HospitalBeanValidator.java,hospitalbeanvalidator,True,1.0,hospitalbeanvalidator,0.1574968741673603,True
+UC18E2.txt,uc18e2,HospitalBeanValidator.java,hospitalbeanvalidator,True,1.0,hospitalbeanvalidator,0.1574968741673603,True
+UC23S1.txt,uc23s1,GetUserNameAction.java,getusernameaction,True,1.0,getusernameaction,0.1860739977127148,True
+UC23S3.txt,uc23s3,ViewMyRecordsAction.java,viewmyrecordsaction,True,1.0,viewmyrecordsaction,0.2707382738455233,True
+UC23S4.txt,uc23s4,ViewMyReportRequestsAction.java,viewmyreportrequestsaction,True,1.0,viewmyreportrequestsaction,0.2342215771303134,True
+UC28.txt,uc28,ViewPatientOfficeVisitHistoryAction.java,viewpatientofficevisithistoryaction,True,1.0,viewpatientofficevisithistoryaction,0.2145894088558286,True
+UC38S1.txt,uc38s1,DrugInteractionAction.java,druginteractionaction,True,1.0,druginteractionaction,0.2362254120299803,True
+UC38S2.txt,uc38s2,DrugInteractionAction.java,druginteractionaction,True,1.0,druginteractionaction,0.2625840297329759,True
+UC3S3.txt,uc3s3,SessionTimeoutListener.java,sessiontimeoutlistener,True,1.0,sessiontimeoutlistener,0.2451912286042261,True
+UC4S1.txt,uc4s1,EditPatientAction.java,editpatientaction,True,1.0,editpatientaction,0.1935560537098417,True

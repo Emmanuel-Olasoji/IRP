@@ -1,0 +1,1 @@
+display page teacher professor description report card precondition user logged system click line button sequence select academic year interest one displayed class pupil reference quadrimestre clicking appropriate view list least teach associated selected school student chosen referred quarter postconditions stop connection smos server interrupted

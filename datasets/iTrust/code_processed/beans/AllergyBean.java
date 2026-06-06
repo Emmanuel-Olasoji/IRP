@@ -1,0 +1,1 @@
+edu ncsu csc itrust allergy setter get description set first found patient str simple date format for storing about purpose store period little functionality added with exception minor formatting such concatenating phone number together must only have getters and eclipse hint use source generate create these easily

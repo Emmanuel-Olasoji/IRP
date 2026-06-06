@@ -1,0 +1,1 @@
+identity card exception search number delete register value modify street civic residence release date expiry valid expatriation owner cod citizen type carta identit associated with passed parameter deletion update code intended deleterious operation successful registration database modification specific

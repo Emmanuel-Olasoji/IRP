@@ -1,0 +1,1 @@
+view note detail administrator description display precondition user must logged system took onconte click button associated one sequence show form student teacher date postconditions displaying interrupt connection smos server interrupted

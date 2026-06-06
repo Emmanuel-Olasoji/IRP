@@ -1,0 +1,1 @@
+unisa gps etour repository idbtourist insert tourist modify delete get cultural heritage preference refreshment point clear for database add change and been changed otherwise from identificatie username about attach preferred

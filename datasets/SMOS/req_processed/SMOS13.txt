@@ -1,0 +1,1 @@
+view class list administrator description allows precondition user logged system role click management button sequence select academic year interest want search archive display screen selected postconditions show interrupt operation connection smos server interrupted
