@@ -94,6 +94,18 @@ def generate_visualizations(results_root: Path, output_dir: Path) -> List[Path]:
     plt.close()
     outputs.append(mrr_file)
 
+    pivot_r5 = df.pivot(index="Dataset", columns="Model", values="Recall@5")
+    ax = pivot_r5.plot(kind="bar", figsize=(10, 6))
+    ax.set_title("Recall@5 Comparison Across Datasets")
+    ax.set_ylabel("Recall@5")
+    ax.set_xlabel("Dataset")
+    plt.xticks(rotation=0)
+    plt.tight_layout()
+    recall5_file = output_dir / "recall5_comparison.png"
+    plt.savefig(recall5_file, dpi=300)
+    plt.close()
+    outputs.append(recall5_file)
+
     pivot_r10 = df.pivot(index="Dataset", columns="Model", values="Recall@10")
     ax = pivot_r10.plot(kind="bar", figsize=(10, 6))
     ax.set_title("Recall@10 Comparison Across Datasets")
