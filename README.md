@@ -1,9 +1,7 @@
-# MSc Traceability Recovery Research Framework
-
 ## Project Aim
-This repository provides a clean, reproducible framework for requirements-to-code traceability recovery experiments. It is engineered for MSc dissertation-quality empirical software engineering research and appendix submission.
+This repository implements the MSc IRP project titled **"Automating Requirements-to-Code Traceability Using Embedding-Based NLP Approaches"**. Its aim is to provide a rigorous, reproducible research framework for automatically linking natural-language requirements to source-code artefacts using both lexical and embedding-based retrieval models.
 
-The framework evaluates four retrieval models across four datasets and exports reproducible artifacts for rankings, metrics, statistical testing, error analysis, and plots.
+The framework evaluates four retrieval models across four benchmark datasets and produces reproducible outputs for rankings, evaluation metrics, statistical testing, error analysis, and visualisations.
 
 ## Datasets
 - iTrust
